@@ -2,7 +2,7 @@ using Microsoft.AspNet.Builder;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Logging;
 
-namespace HelloMvc1
+namespace HelloMvc
 {
     public class Startup
     {
